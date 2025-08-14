@@ -7,12 +7,30 @@ I specialize in **ASP.NET Core**, **Angular**, **Azure**, and **Microservices**,
 
 ## 🛠 Tech Stack
 
-- **Frontend**: Angular (v10–15), TypeScript, Bootstrap, Tailwind CSS, RxJS  
-- **Backend**: ASP.NET Core, Web API, Entity Framework Core, LINQ, C#  
-- **Cloud & DevOps**: Azure (App Services, Functions, DevOps), Docker, Kubernetes, Jenkins  
-- **Databases**: SQL Server, MySQL, MongoDB  
-- **Architecture**: Microservices, Clean Architecture, Event-Driven Systems  
-- **Testing**: NUnit, MSTest, Moq, Postman, Swagger  
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?logo=reactivex&logoColor=white)
+
+### Backend
+![.NET Core](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-68217A?logo=dotnet&logoColor=white)
+![Web API](https://img.shields.io/badge/Web%20API-005571?logo=rest&logoColor=white)
+
+### Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+
+### Databases
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ---
 
@@ -36,8 +54,7 @@ I specialize in **ASP.NET Core**, **Angular**, **Azure**, and **Microservices**,
 
 ## 📬 Let's Connect
 
-📧 **Email**: 1732shwetaa@gmail.com  
-💼 **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)  
-🌐 **Portfolio**: *Coming soon*
+[![Email](https://img.shields.io/badge/Email-1732shwetaa%40gmail.com-red?logo=gmail&logoColor=white)](mailto:1732shwetaa@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
 
 ---
