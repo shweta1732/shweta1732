@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shweta!
 
-💻 **Full Stack .NET + Angular Developer** with 8+ years of experience building scalable, secure, and high-performance enterprise applications.  
-I specialize in **ASP.NET Core**, **Angular**, **Azure**, and **Microservices**, delivering solutions that drive business success.
+💻 **Full Stack .NET Developer** with 6+ years of experience building scalable, secure, and high-performance enterprise applications.  
+I specialize in **C#**, **ASP.NET Core**, **Angular**, **React**, **Azure**, and **Microservices**, delivering solutions that drive business success.
 
 ---
 
