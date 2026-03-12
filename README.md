@@ -9,7 +9,6 @@ I specialize in **C#**, **ASP.NET Core**, **Angular**, **React**, **Azure**, and
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
