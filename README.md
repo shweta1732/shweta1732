@@ -38,10 +38,11 @@ I specialize in **C#**, **ASP.NET Core**, **Angular**, **React**, **Azure**, and
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| [Employee Management System](https://github.com/shweta1732/EmployeeManagement) | Angular 19, .NET 10, TypeScript | A sample application developed using Angular 19 and .NET 10 with full-stack CRUD operations. | 
+| [Employee Management System](https://github.com/shweta1732/EmployeeManagement) | Angular 19, .NET 10, TypeScript | A sample application developed using Angular 19 and .NET 10 with full-stack CRUD operations.  The Sample project deployed in github pages here: https://shweta1732.github.io/EmployeeManagement/| 
 | [Real-Time Chat App](https://github.com/shweta1732/realtime-chat-app) | SignalR, Angular, JWT | Live messaging with chat rooms, private messages, and WebSocket communication. |
 | [E-Commerce Admin Panel](https://github.com/shweta1732/ecommerce-admin) | Angular, .NET Core, EF Core | Admin dashboard to manage products, orders, and users with secure API integration. |
 | [DevOps Pipeline Demo](https://github.com/shweta1732/devops-pipeline-demo) | Azure DevOps, Docker, .NET | Demonstrates CI/CD pipeline automation with containerized deployment. |
+| [FoodHub Data Analysis Project](https://github.com/shweta1732/FoodHub-Analysis-Project) | Python, Numpy, Pandas, Seaborn | Demonstrates FoodHub Analysis Project done as part my learning for Data Analysis |
 
 ---
 
